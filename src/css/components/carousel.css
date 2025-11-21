@@ -35,7 +35,7 @@ img {
   scroll-snap-type: x mandatory;
 
   .carousel__item {
-    flex: 0 0 260px;
+    flex: 0 0 100%;
 
     scroll-snap-align: center;
   }
